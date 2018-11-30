@@ -1,5 +1,5 @@
 ## 爱范儿大声板块REST API
-说明，本api为通过Jsoup[https://github.com/jhy/jsoup]html解析开发的爱范儿网站大声板块文章，请大家前往https://www.ifanr.com/dasheng查看相关文章详情。 
+说明，本api为通过Jsoup(https://github.com/jhy/jsoup]html)解析开发的爱范儿网站大声板块文章，请大家前往(https://www.ifanr.com/dasheng)查看相关文章详情。 
 
 ## API
 ### 获取文章列表
